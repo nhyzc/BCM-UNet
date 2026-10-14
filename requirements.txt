@@ -1,0 +1,17 @@
+# Training and inference stack.
+# Install with:  pip install -r requirements.txt
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+Pillow>=9.0.0
+scikit-image>=0.20.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+opencv-python>=4.8.0
+tqdm>=4.65.0
+
+# Desktop application (CrackQuantGUI_English).
+PyQt5>=5.15.0
+
+# Only needed to build the standalone executable (CrackQuantGUI_English/build_exe.py).
+# pyinstaller>=5.0.0

@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article listed below."
+title: "BCM-UNet: Boundary-Guided Crack Segmentation and Quantification for Coal CT Images"
+abstract: >-
+  Reference implementation of BCM-UNet, a boundary-guided multi-scale U-Net for
+  segmenting fractures in coal CT images, together with a skeleton-based
+  fracture quantification pipeline and the CrackQuant desktop application.
+type: software
+authors:
+  - family-names: Yu
+    given-names: Hao
+  - family-names: Wang
+    given-names: Chao
+  - family-names: He
+    given-names: Ziwang
+  - family-names: Ying
+    given-names: Junchao
+  - family-names: Yang
+    given-names: Siyuan
+  - family-names: Jin
+    given-names: Zijun
+license: MIT
+repository-code: "https://github.com/nhyzc/BCM-UNet"
+keywords:
+  - coal CT images
+  - fracture segmentation
+  - deep learning
+  - BCM-UNet
+  - skeleton extraction
+  - fracture quantification
